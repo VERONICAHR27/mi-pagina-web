@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+header {
+  padding: 20px;  
+}
+body{
+  width: 70vw;
+  margin: 0px auto;
+  background-color:red;
+}
+section{
+    justify-content: space-between;
+    display: flex;
+    list-style-type: none;
