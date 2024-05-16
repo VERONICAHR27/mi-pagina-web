@@ -66,11 +66,11 @@ div{
     
   }
   .Aupicios > a >img {
-    width: 506.5px;;
-    height: 105px;;
+    width: 506.5px;
+    height: 105px;
   }
   footer{
-    background-color: rgb(61, 61, 58);
+    background-color: rgb(60, 58, 61);
   }
   section{
     display: flex;
@@ -78,7 +78,10 @@ div{
     align-items: center;
   }
       ul{
-      color:white;
+      color:hsl(200, 95%, 55%);
+      color:#23F;
+      color: hsla(211, 100%, 70%, 0.75);
+       color:rgba(37,142,255,1)
       font-weight: 300;
       font-family: 'Courier New', Courier, monospace;
       font-size: 12px;
