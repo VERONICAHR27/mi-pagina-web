@@ -19,12 +19,12 @@ function vernombre(){
   
   
   function adivinarNumero() {
-    let numeroCorrecto = 121;
+    let numeroCorrecto = 13;
     let respuestaDelUsuario = null;
     let contadorDeIntentos = 0;
   
     while (respuestaDelUsuario !== numeroCorrecto) {
-      respuestaDelUsuario = Number(prompt("Adivina el número"));
+      respuestaDelUsuario = Number(prompt("Cual es el numero de la mala suerte  (Dato curioso: 13)"));
   
       contadorDeIntentos += 1;
   
